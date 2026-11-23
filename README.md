@@ -1,7 +1,8 @@
 # SECT0101 · TAK integrations
 
-Open-source tools that bring more devices and data into TAK (ATAK, WinTAK, iTAK, CloudTAK) for public safety and emergency response.
+Open-source tools that bring more devices and data into TAK (ATAK, WinTAK, iTAK, CloudTAK) for public safety and emergency response. Docs, training and the full project list live at **[tak5.org](https://tak5.org)**.
 
+[![TAK5.org](https://img.shields.io/badge/TAK5.org-TAK_the_planet-ff2b3f?labelColor=000000)](https://tak5.org)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_me_a_coffee-support-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/sect0101)
 
 <p align="center">
