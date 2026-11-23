@@ -10,6 +10,7 @@ Open-source tools that bring more devices and data into TAK (ATAK, WinTAK, iTAK,
   <a href="https://github.com/SECT0101/PagerMesh"><img src="images/pagermesh.png" width="135" alt="PagerMesh"></a>
   <a href="https://github.com/SECT0101/PineappleTAK-MK7"><img src="images/pineappletak-mk7.png" width="135" alt="PineappleTAK for the Mark VII"></a>
   <a href="https://github.com/SECT0101/PineappleTAK-MK5.8-Tetra"><img src="images/pineappletak-tetra.png" width="135" alt="PineappleTAK for the Tetra"></a>
+  <a href="https://github.com/SECT0101/SharkTAKDisplay"><img src="images/sharktakdisplay.png" width="135" alt="SharkTAKDisplay"></a>
   <a href="https://github.com/SECT0101/PagerTAKTheme"><img src="images/tak5.png" width="135" alt="PagerTAKTheme (TAK5)"></a>
   <a href="https://github.com/SECT0101/PagerMeshTheme"><img src="images/mesh5.png" width="135" alt="PagerMeshTheme (MESH.5)"></a>
   <a href="https://github.com/SECT0101/OpenWrt-TAK"><img src="images/openwrt-tak.png" width="135" alt="OpenWrt-TAK"></a>
@@ -26,6 +27,7 @@ Open-source tools that bring more devices and data into TAK (ATAK, WinTAK, iTAK,
 | [PagerMesh](https://github.com/SECT0101/PagerMesh) | Hak5 WiFi Pineapple Pager payload for Meshtastic: mesh chat, node list and map with navigation, radio settings and channels, mesh SIGINT and a mesh ↔ TAK bridge, with a web console. Glytch Mesh Mod, Wi-Fi or USB radio |
 | [PineappleTAK-MK7](https://github.com/SECT0101/PineappleTAK-MK7) | Hak5 WiFi Pineapple Mark VII module: the Pineapple on the TAK map with GeoChat, alerts, reports, Wi-Fi / Bluetooth / drone sensors and the same web console as PagerTAK |
 | [PineappleTAK-MK5.8-Tetra](https://github.com/SECT0101/PineappleTAK-MK5.8-Tetra) | Hak5 WiFi Pineapple Tetra module: the same for the Tetra, with Wi-Fi and drone sensors |
+| [SharkTAKDisplay](https://github.com/SECT0101/SharkTAKDisplay) | Hak5 Shark Jack Display payload: wired network surveys (fingerprint with rogue DHCP detection, LLDP/CDP switch and VLAN, hosts and services, baseline diff for new devices, packet capture) sent to TAK as a marker plus a data package, with location from your own ATAK position |
 | [PagerTAKTheme](https://github.com/SECT0101/PagerTAKTheme) | TAK5, a tactical coyote-tan theme for the WiFi Pineapple Pager: the TAK.5 shield, Tac-Pine, a TAK THE PLANET! boot finale and matching ringtones |
 | [PagerMeshTheme](https://github.com/SECT0101/PagerMeshTheme) | MESH.5, a LoRa mesh theme in Meshtastic green for the WiFi Pineapple Pager, made to go with PagerMesh: the MESH.5 shield, Tac-Pine as a mesh operator, a MESH THE PLANET! boot finale and matching ringtones |
 | [OpenWrt-TAK](https://github.com/SECT0101/OpenWrt-TAK) | `tak-gateway` for OpenWrt routers and Hak5 Pineapples: bridges local TAK multicast to a TAK Server, with a LuCI page |
