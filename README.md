@@ -17,8 +17,8 @@ Open-source tools that bring more devices and data into TAK (ATAK, WinTAK, iTAK,
   <a href="https://github.com/SECT0101/NodeRED-TAK"><img src="images/nodered-tak.png" width="135" alt="NodeRED-TAK"></a>
   <a href="https://github.com/SECT0101/TurtleTAK"><img src="images/turtletak.png" width="135" alt="TurtleTAK"></a>
   <a href="https://github.com/SECT0101/TurtleTAK-Classic"><img src="images/turtletak-classic.png" width="135" alt="TurtleTAK Classic"></a>
-  <img src="images/turtlemesh.png" width="135" alt="TurtleMesh (private)" title="TurtleMesh: private for now">
-  <img src="images/turtleshell.png" width="135" alt="TurtleShell (private)" title="TurtleShell: private for now">
+  <a href="https://github.com/SECT0101/TurtleMesh"><img src="images/turtlemesh.png" width="135" alt="TurtleMesh"></a>
+  <a href="https://github.com/SECT0101/TurtleShell"><img src="images/turtleshell.png" width="135" alt="TurtleShell"></a>
   <img src="images/nodered-tak-ps.png" width="135" alt="NodeRED-TAK-PS (private)" title="NodeRED-TAK-PS: private, available to public-safety agencies on request">
   <img src="images/liveu-tak.png" width="135" alt="LiveU-TAK (private)" title="LiveU-TAK: private, available to public-safety agencies on request">
 </p>
@@ -34,8 +34,8 @@ Open-source tools that bring more devices and data into TAK (ATAK, WinTAK, iTAK,
 | [SharkTAKDisplay](https://github.com/SECT0101/SharkTAKDisplay) | Hak5 Shark Jack Display payload: wired network surveys (fingerprint with rogue DHCP detection, LLDP/CDP switch and VLAN, hosts and services, baseline diff for new devices, packet capture) sent to TAK as a marker plus a data package, with location from your own ATAK position |
 | [TurtleTAK](https://github.com/SECT0101/TurtleTAK) | Hak5 LAN Turtle Hub payload: the Hub on the TAK map as a facility sensor, with network watch alerts (new devices, watched devices going missing, ARP spoofing, rogue DHCP, link tamper), site survey data packages, an ATAK mesh SA bridge and a web console with an offline map |
 | [TurtleTAK Classic](https://github.com/SECT0101/TurtleTAK-Classic) | Hak5 LAN Turtle module for the original LAN Turtle and LAN Turtle SD: the Turtle on the TAK map as a facility sensor, with network watch alerts (new devices, watched devices going missing, link down, ARP spoofing) as markers and GeoChat, TLS with the Turtle's own ncat, and an alert log on the SD card |
-| TurtleMesh *(private for now)* | Hak5 LAN Turtle Hub payload: a Meshtastic radio over Wi-Fi or USB, with mesh chat, a node map, radio settings, mesh watch and sensor alerts, alerts over LoRa, DM commands, an optional mesh-to-TAK bridge (including ATAK plugin users) and a web console |
-| TurtleShell *(private for now)* | Hak5 LAN Turtle Hub payload: TurtleTAK and TurtleMesh in one payload, sharing the radio's GPS fix, with a watchdog and both web consoles |
+| [TurtleMesh](https://github.com/SECT0101/TurtleMesh) | Hak5 LAN Turtle Hub payload: a Meshtastic radio over Wi-Fi or USB, with mesh chat, a node map, radio settings, mesh watch and sensor alerts, alerts over LoRa, DM commands, an optional mesh-to-TAK bridge (including ATAK plugin users) and a web console |
+| [TurtleShell](https://github.com/SECT0101/TurtleShell) | Hak5 LAN Turtle Hub payload: TurtleTAK and TurtleMesh in one payload, sharing the radio's GPS fix, with a watchdog and both web consoles |
 | [PagerTAKTheme](https://github.com/SECT0101/PagerTAKTheme) | TAK5, a tactical coyote-tan theme for the WiFi Pineapple Pager: the TAK.5 shield, Tac-Pine, a TAK THE PLANET! boot finale and matching ringtones |
 | [PagerMeshTheme](https://github.com/SECT0101/PagerMeshTheme) | MESH.5, a LoRa mesh theme in Meshtastic green for the WiFi Pineapple Pager, made to go with PagerMesh: the MESH.5 shield, Tac-Pine as a mesh operator, a MESH THE PLANET! boot finale and matching ringtones |
 | [OpenWrt-TAK](https://github.com/SECT0101/OpenWrt-TAK) | `tak-gateway` for OpenWrt routers and Hak5 Pineapples: bridges local TAK multicast to a TAK Server, with a LuCI page |
