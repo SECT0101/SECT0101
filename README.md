@@ -14,6 +14,7 @@ Open-source tools that bring more devices and data into TAK (ATAK, WinTAK, iTAK,
   <a href="https://github.com/SECT0101/SharkTAKDisplay"><img src="images/sharktakdisplay.png" width="135" alt="SharkTAKDisplay"></a>
   <a href="https://github.com/SECT0101/PagerTAKTheme"><img src="images/tak5.png" width="135" alt="PagerTAKTheme (TAK5)"></a>
   <a href="https://github.com/SECT0101/PagerMeshTheme"><img src="images/mesh5.png" width="135" alt="PagerMeshTheme (MESH.5)"></a>
+  <a href="https://github.com/SECT0101/PagerRTTYTheme"><img src="images/phreak5.png" width="135" alt="PagerRTTYTheme (PHREAK.5)"></a>
   <a href="https://github.com/SECT0101/OpenWrt-TAK"><img src="images/openwrt-tak.png" width="135" alt="OpenWrt-TAK"></a>
   <a href="https://github.com/SECT0101/NodeRED-TAK"><img src="images/nodered-tak.png" width="135" alt="NodeRED-TAK"></a>
   <a href="https://github.com/SECT0101/TurtleTAK"><img src="images/turtletak.png" width="135" alt="TurtleTAK"></a>
@@ -40,6 +41,7 @@ Open-source tools that bring more devices and data into TAK (ATAK, WinTAK, iTAK,
 | [TurtleShell](https://github.com/SECT0101/TurtleShell) | Hak5 LAN Turtle Hub payload: TurtleTAK and TurtleMesh in one payload, sharing the radio's GPS fix, with a watchdog and both web consoles |
 | [PagerTAKTheme](https://github.com/SECT0101/PagerTAKTheme) | TAK5, a tactical coyote-tan theme for the WiFi Pineapple Pager: the TAK.5 shield, Tac-Pine, a TAK THE PLANET! boot finale and matching ringtones |
 | [PagerMeshTheme](https://github.com/SECT0101/PagerMeshTheme) | MESH.5, a LoRa mesh theme in Meshtastic green for the WiFi Pineapple Pager, made to go with PagerMesh: the MESH.5 shield, Tac-Pine as a mesh operator, a MESH THE PLANET! boot finale and matching ringtones |
+| [PagerRTTYTheme](https://github.com/SECT0101/PagerRTTYTheme) | PHREAK.5, an old-school phone phreak theme in payphone blue for the WiFi Pineapple Pager, made to go with PagerRTTY: Tac-Pine in the phone booth, rotary dials, Baudot tape, a PHREAK THE PLANET! boot finale and matching ringtones |
 | [OpenWrt-TAK](https://github.com/SECT0101/OpenWrt-TAK) | `tak-gateway` for OpenWrt routers and Hak5 Pineapples: bridges local TAK multicast to a TAK Server, with a LuCI page |
 | [NodeRED-TAK](https://github.com/SECT0101/NodeRED-TAK) | Ready-to-import Node-RED flows that put public data on the TAK map: weather and hazards, FEMA, wildfires, satellites, space weather, Winlink, Meshtastic and CalTopo |
 | NodeRED-TAK-PS *(private, on request)* | Node-RED flows for public-safety TAK servers: TDOT SmartWay and Waze traffic, Tennessee transit (WeGo, MATA, CARTA, KAT, CTS, Rover, Amtrak) and 911 CAD calls. Shared with public-safety agencies and developers on request |
