@@ -23,7 +23,7 @@ Open-source tools that bring more devices and data into TAK (ATAK, WinTAK, iTAK,
   <a href="https://github.com/SECT0101/TurtleShell"><img src="images/turtleshell.png" width="135" alt="TurtleShell"></a>
   <img src="images/squirreltak.png" width="135" alt="SquirrelTAK (private for now)" title="SquirrelTAK: private for now">
   <img src="images/bunnytak.png" width="135" alt="BunnyTAK (private for now)" title="BunnyTAK: private for now">
-  <a href="https://github.com/SECT0101/PlunderTAK"><img src="images/plundertak.png" width="135" alt="PlunderTAK (private for now)" title="PlunderTAK: private for now"></a>
+  <a href="https://github.com/SECT0101/PlunderTAK"><img src="images/plundertak.png" width="135" alt="PlunderTAK"></a>
   <img src="images/nodered-tak-ps.png" width="135" alt="NodeRED-TAK-PS (private)" title="NodeRED-TAK-PS: private, available to public-safety agencies on request">
   <img src="images/liveu-tak.png" width="135" alt="LiveU-TAK (private)" title="LiveU-TAK: private, available to public-safety agencies on request">
 </p>
@@ -44,7 +44,7 @@ Open-source tools that bring more devices and data into TAK (ATAK, WinTAK, iTAK,
 | [TurtleShell](https://github.com/SECT0101/TurtleShell) | Hak5 LAN Turtle Hub payload: TurtleTAK and TurtleMesh in one payload, sharing the radio's GPS fix, with a watchdog and both web consoles |
 | SquirrelTAK *(private for now)* | Hak5 Packet Squirrel Mark II payload: an inline guard for one device on the TAK map, with alerts when it is unplugged, swapped or acts strangely, packet captures, a check-in / 911 panic button, quarantine from the web console or TAK chat, and a web console |
 | BunnyTAK *(private for now)* | Hak5 Bash Bunny Mark II payload (Mark I too, without Bluetooth): the Bunny on the TAK map as a sensor on its USB host or from a router's LAN, with Bluetooth tracker and surveillance watch (including a *following* alert), watched devices, drone Remote ID, alerts, an offline Bluetooth log and a web console with an offline map |
-| [PlunderTAK](https://github.com/SECT0101/PlunderTAK) *(private for now)* | Hak5 Plunder Bug program for the computer the bug plugs into: a muted LAN tap on the TAK map, with alerts for new devices, rogue DHCP servers, ARP spoofing and switch port changes, an optional active scan, and a web console |
+| [PlunderTAK](https://github.com/SECT0101/PlunderTAK) | Hak5 Plunder Bug program for the computer the bug plugs into: a muted LAN tap on the TAK map, with alerts for new devices, rogue DHCP servers, ARP spoofing and switch port changes, an optional active scan, and a web console |
 | [PagerTAKTheme](https://github.com/SECT0101/PagerTAKTheme) | TAK5, a tactical coyote-tan theme for the WiFi Pineapple Pager: the TAK.5 shield, Tac-Pine, a TAK THE PLANET! boot finale and matching ringtones |
 | [PagerMeshTheme](https://github.com/SECT0101/PagerMeshTheme) | MESH.5, a LoRa mesh theme in Meshtastic green for the WiFi Pineapple Pager, made to go with PagerMesh: the MESH.5 shield, Tac-Pine as a mesh operator, a MESH THE PLANET! boot finale and matching ringtones |
 | [PagerRTTYTheme](https://github.com/SECT0101/PagerRTTYTheme) | PHREAK.5, an old-school phone phreak theme in payphone blue for the WiFi Pineapple Pager, made to go with PagerRTTY: Tac-Pine in the phone booth, rotary dials, Baudot tape, a PHREAK THE PLANET! boot finale and matching ringtones |
